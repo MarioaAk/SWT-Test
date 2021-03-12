@@ -6,7 +6,7 @@
 # Bogenliga Application
 
 
-## Content
+## Contents
 
 - Spring Boot with REST services
 - Flyway
